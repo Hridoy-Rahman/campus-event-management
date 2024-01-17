@@ -1,11 +1,11 @@
 ### 1. Project Planning:
-•	Sprint Planning:
-•	Hold a sprint planning meeting to define the scope of work for the upcoming sprint (typically 2-4 weeks).
-•	Create a backlog with user stories, prioritized based on business value.
-•	Select user stories for the sprint based on team capacity.
-•	Define Objectives:
-•	Clearly outline the objectives and goals for the project.
-•	Identify key features to be implemented during each sprint.
+• Sprint Planning:
+    •	Hold a sprint planning meeting to define the scope of work for the upcoming sprint (typically 2-4 weeks).
+    •	Create a backlog with user stories, prioritized based on business value.
+    •	Select user stories for the sprint based on team capacity.
+•    Define Objectives:
+    •	Clearly outline the objectives and goals for the project.
+    •	Identify key features to be implemented during each sprint.
 ### 2. Development Sprints:
     •	Sprint Execution:
     •	Daily Stand-ups: Hold daily stand-up meetings for the development team to discuss progress, challenges, and plans.
