@@ -19,7 +19,6 @@ Create a web-based platform that allows students, faculty, and staff to efficien
 11. [Scale and Future Enhancements](#11-scale-and-future-enhancements)
 12. [Continuous Improvement](#12-continuous-improvement)
 13. [User Training](#13-user-training)
-14. [License](#14-license)
 
 ## 1. Project Planning
 
@@ -151,9 +150,20 @@ Create a web-based platform that allows students, faculty, and staff to efficien
 - Provide training sessions for end-users on how to use the system effectively.
 - Offer support resources and FAQs.
 
-## 14. License
 
-### License Compliance
 
-- Ensure that the project adheres to licensing agreements and open-source standards.
+# Assignment
+## Couse code: CSE305
+##Course Title: Software Engineering 
+
+## Submitted By
+- Name: Hridoy Rahman 
+- Student ID: 2002060
+
+## Submitted To
+- Pankaj Bhowmik
+- Lecturer, Department of CSE, HSTU
+
+## Date of Submission
+20 January 2024
 
